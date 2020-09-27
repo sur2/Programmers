@@ -2,6 +2,7 @@ import java.util.Arrays;
 import java.util.HashSet;
 import java.util.Set;
 
+// Level 3 네트워크
 public class Sol_Union_Find {
 	
 	private int[] root = null;
